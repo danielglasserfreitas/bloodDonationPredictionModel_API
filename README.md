@@ -8,7 +8,7 @@ Neste case demonstramos a integração entre o python e o R, uma vez que o model
  - Edite o arquivo joblibRun.py e altere o path do seu projeto em joblib.load("your_path/blood_donation_model.joblib")
  - Edite o arquivo RunApi.bat
     - Altere o path do seu R geralmente C:\Program Files\R\R-4.0.3\bin
-    - Altere o path do projeto Rscript.exe "your_path\Run_API.R
+    - Altere o path do projeto Rscript.exe your_path\Run_API.R
  - Execute o arquivo RunApi.bat
 
 ## Endpoints da API
