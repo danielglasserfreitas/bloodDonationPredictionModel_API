@@ -12,7 +12,7 @@ Neste case demonstramos a integração entre o python e o R, uma vez que o model
  - Execute o arquivo RunApi.bat
 
 ## Endpoints da API
-O swagger está disponível em [swagger](http://127.0.0.1:8000/__docs__/)
+A documentação da API está disponível no [swagger](http://127.0.0.1:8000/__docs__/)
 
 **/PredictByPatient** Neste endpoint você pode pesquisar por patient_Id e verificar a predição da sua próxima doação neste mês.
 
