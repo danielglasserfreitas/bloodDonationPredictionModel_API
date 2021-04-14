@@ -15,5 +15,7 @@ Neste case demonstramos a integração entre o python e o R, uma vez que o model
 O swagger está disponível em 127.0.0.1:8000/__docs__/
 
 **/PredictByPatient** Neste endpoint você pode pesquisar por patient_Id e verificar a predição da sua próxima doação neste mês.
+
 **/patient_list** Neste endpoint você consegue verificar a lista de pacientes disponíveis.
+
 **/TryYourNextBloodDonation** Neste endpoint você será capaz de verificar com seus dados a previsão de doação
