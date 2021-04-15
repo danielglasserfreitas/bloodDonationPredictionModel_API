@@ -30,16 +30,22 @@ A documentação da API está disponível no [swagger](http://127.0.0.1:8000/__d
 English
 API documentation is available on [swagger](http://127.0.0.1:8000/__docs__/)
 
-**/PredictByPatient** Neste endpoint você pode pesquisar por patient_Id e verificar a predição da sua próxima doação neste mês.
+**/PredictByPatient** 
+ - Neste endpoint você pode pesquisar por patient_Id e verificar a predição da sua próxima doação neste mês.
 
-**/patient_list** Neste endpoint você consegue verificar a lista de pacientes disponíveis.
+**/patient_list** 
+ - Neste endpoint você consegue verificar a lista de pacientes disponíveis.
 
-**/TryYourNextBloodDonation** Neste endpoint você será capaz de verificar com seus dados a previsão de doação
+**/TryYourNextBloodDonation** 
+ - Neste endpoint você será capaz de verificar com seus dados a previsão de doação
 
 English
 
-**/ PredictByPatient** In this endpoint you can search for patient_Id and check the prediction of your next donation this month.
+**/ PredictByPatient** 
+ - In this endpoint you can search for patient_Id and check the prediction of your next donation this month.
 
-**/ patient_list** In this endpoint you can check the list of available patients.
+**/ patient_list** 
+ - In this endpoint you can check the list of available patients.
 
-**/ TryYourNextBloodDonation** At this endpoint you will be able to check the donation forecast with your data
+**/ TryYourNextBloodDonation** 
+ - At this endpoint you will be able to check the donation forecast with your data
