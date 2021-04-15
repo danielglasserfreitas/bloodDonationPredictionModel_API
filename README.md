@@ -14,11 +14,13 @@ In this case, I demonstrate an integration between python and R, since the predi
 Python 3.9.0 and R-4.0.3 
 
 ## Execução da API
- - Edite o arquivo joblibRun.py e altere o path do seu projeto em joblib.load("your_path/blood_donation_model.joblib")
+ - Edite o arquivo joblibRun.py
+    - Altere o path do seu projeto em joblib.load("your_path/blood_donation_model.joblib")
  - Edite o arquivo RunApi.bat
     - Altere o path do seu R geralmente C:\Program Files\R\R-4.0.3\bin
     - Altere o path do projeto Rscript.exe your_path\Run_API.R
  - Execute o arquivo RunApi.bat
+ 
 
 
 English
