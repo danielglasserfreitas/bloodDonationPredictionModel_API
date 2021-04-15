@@ -2,7 +2,7 @@
 
 Doações de sangue são fundamentais para o sistema de saúde, e manter a recorrência dos doadores é um desafio para bancos de sangue. Neste case criei uma API para um sistema que prevê se um doador fará sua próxima doação neste mês!
 
-Neste case demonstramos a integração entre o python e o R, uma vez que o modelo preditivo foi escrito em python e a API utilizando o Plumber do R. Aproveito também para demonstrar alguns conceito no R a instalação de multilplas packages caso necessário.
+Neste case demonstramos a integração entre o python e o R, uma vez que o modelo preditivo foi escrito em python e a API utilizando o Plumber do R. Aproveito também para demonstrar alguns conceito no R como a instalação de multilplas packages caso necessário.
 
 English
 
