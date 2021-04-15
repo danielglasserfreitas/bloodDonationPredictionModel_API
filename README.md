@@ -15,6 +15,8 @@ In this case, I demonstrate an integration between python and R, since the predi
     - Altere o path do projeto Rscript.exe your_path\Run_API.R
  - Execute o arquivo RunApi.bat
 
+
+English:
  - Edit the joblibRun.py file and change the path of your project in joblib.load ("your_path / blood_donation_model.joblib")
   - Edit the RunApi.bat file
      - Change the path of your R usually C: \ Program Files \ R \ R-4.0.3 \ bin
@@ -24,6 +26,7 @@ In this case, I demonstrate an integration between python and R, since the predi
 ## Endpoints da API
 A documentação da API está disponível no [swagger](http://127.0.0.1:8000/__docs__/)
 
+English:
 API documentation is available on [swagger](http://127.0.0.1:8000/__docs__/)
 
 **/PredictByPatient** Neste endpoint você pode pesquisar por patient_Id e verificar a predição da sua próxima doação neste mês.
@@ -32,7 +35,7 @@ API documentation is available on [swagger](http://127.0.0.1:8000/__docs__/)
 
 **/TryYourNextBloodDonation** Neste endpoint você será capaz de verificar com seus dados a previsão de doação
 
-
+English:
 **/ PredictByPatient** In this endpoint you can search for patient_Id and check the prediction of your next donation this month.
 
 **/ patient_list** In this endpoint you can check the list of available patients.
