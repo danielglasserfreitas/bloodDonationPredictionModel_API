@@ -17,17 +17,18 @@ Python 3.9.0 and R-4.0.3
  - Edite o arquivo joblibRun.py
     - Altere o path do seu projeto em joblib.load("your_path/blood_donation_model.joblib")
  - Edite o arquivo RunApi.bat
-    - Altere o path do seu R geralmente C:\Program Files\R\R-4.0.3\bin
-    - Altere o path do projeto Rscript.exe your_path\Run_API.R
+    - Altere o path do seu R (geralmente encontra-se em C:\Program Files\R\R-X.X.X\bin)
+    - Altere o path do projeto: Rscript.exe your_path\Run_API.R
  - Execute o arquivo RunApi.bat
- 
+
 
 
 English
- - Edit the joblibRun.py file and change the path of your project in joblib.load ("your_path / blood_donation_model.joblib")
+ - Edit the joblibRun.py file
+     - Change the path of your project in joblib.load ("your_path / blood_donation_model.joblib")
   - Edit the RunApi.bat file
-     - Change the path of your R usually C: \ Program Files \ R \ R-4.0.3 \ bin
-     - Change the path of the Rscript.exe project your_path \ Run_API.R
+     - Change the path of your R (usually C:\Program Files\R\R-x.x.x\bin)
+     - Change the path of the project: Rscript.exe your_path\Run_API.R
   - Run the RunApi.bat file
 
 ## Endpoints da API
