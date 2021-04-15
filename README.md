@@ -5,6 +5,7 @@ Doações de sangue são fundamentais para o sistema de saúde, e manter a recor
 Neste case demonstramos a integração entre o python e o R, uma vez que o modelo preditivo foi escrito em python e a API utilizando o Plumber do R. Aproveito também para demonstrar alguns conceito no R a instalação de multilplas packages caso necessário.
 
 English
+
 Blood donations are critical to the health care system, and maintaining donor recurrence is a challenge for blood banks. In this case I created an API for a system that predicts whether a donor will make their next donation this month!
 
 In this case, I demonstrate an integration between python and R, since the predictive model was written in python and an API using the Plumber of R. I also take the opportunity to demonstrate the concept in R by installing multiple packages if necessary.
