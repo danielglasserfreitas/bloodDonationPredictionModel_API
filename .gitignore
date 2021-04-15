@@ -37,3 +37,35 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Distribution / packaging
+.Python
+env/
+.csv
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+node_modules/
+*.egg-info/
+.installed.cfg
+*.egg
+.DS_Store
+backup/
+# Serverless directories
+.serverless
+.idea/
+venv/
+__pycache__/
+.project
+.pydevproject
+.settings/
+package-lock.json
+.vscode/

@@ -10,6 +10,10 @@ Blood donations are critical to the health care system, and maintaining donor re
 
 In this case, I demonstrate an integration between python and R, since the predictive model was written in python and an API using the Plumber of R. I also take the opportunity to demonstrate the concept in R by installing multiple packages if necessary.
 
+## Versions
+Python 3.9.0
+R-4.0.3 
+
 ## Execução da API
  - Edite o arquivo joblibRun.py e altere o path do seu projeto em joblib.load("your_path/blood_donation_model.joblib")
  - Edite o arquivo RunApi.bat
